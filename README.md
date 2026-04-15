@@ -88,6 +88,16 @@ Only use it on websites you own or have permission to test.
 
 ---
 
+## ⬇️ Download
+
+👉 [Download Latest Release](https://github.com/akshatcore/email-harvester-pro/releases/latest)
+
+Includes:
+- Windows executable (.exe)
+- Portable version
+
+---
+
 ## 👨‍💻 Author
 
 **Akshat Tiwari**
